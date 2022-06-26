@@ -1,2 +1,3 @@
 # Password-Generator
-We can generate password using uppercase letter, lowercase letter, numbers and symbols. We can choose how many letter of password we want to generate.
+
+Created a password generator where we can create a secured password with the help of uppercase, lowercase, number, and symbols we can create a unique password. Eevn we can choose the length of the password.
